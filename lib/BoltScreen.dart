@@ -17,11 +17,11 @@ class BoltScreen extends StatelessWidget {
         ),
         body: Row(
           children: [
-            Container(width: 150,height: 1000,
+            Container(width: 155.5,height: 1000,
                 decoration: BoxDecoration(color: Colors.amber)),
             Container(width: 100,height: 1000,
                 decoration: BoxDecoration(color: Colors.black),child: Icon(Icons.electric_bolt,color: Colors.amber,size: 80,)),
-            Container(width: 150,height: 1000,
+            Container(width: 155.5,height: 1000,
                 decoration: BoxDecoration(color: Colors.amber)),
           ],
         ),
